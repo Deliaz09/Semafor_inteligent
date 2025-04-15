@@ -9,3 +9,6 @@ Acest proiect implementează un semafor inteligent folosind Verilog pentru simul
 - Poate fi extins pentru intersecții sau semafoare pietonale.
 
 
+
+
+
